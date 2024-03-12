@@ -1,4 +1,4 @@
-![Header](https://github.com/6Mor6/6Mor6/blob/main/phot/top.jpg)
+![Header](https://github.com/6Mor6/6Mor6/blob/main/phot/top1.jpg)
 
 <!--
 **6Mor6/6Mor6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

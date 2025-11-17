@@ -1,4 +1,3 @@
-![Header](https://github.com/6Mor6/6Mor6/blob/main/phot/top1.jpg)
 
 
 

@@ -7,7 +7,7 @@
 - Есть знания теории жизненого цикла создания ПО и тестирования ПО
 - Есть знания в техниках тест дизайна
 - Опыт работы с SQL
-- ОпЫТ работы С Postman
+- Опыт работы С Postman
 
 ## Tools
 ![SQL](https://img.shields.io/badge/Postgresql-black?style=for-the-badge&logo=PostgreSQL)

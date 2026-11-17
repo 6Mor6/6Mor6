@@ -8,6 +8,7 @@
 - Есть знания в техниках тест дизайна
 - Опыт работы с SQL
 - Опыт работы С Postman
+- Опты работы с Python(request, pandas, numpy)
 
 ## Tools
 ![SQL](https://img.shields.io/badge/Postgresql-black?style=for-the-badge&logo=PostgreSQL)
